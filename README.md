@@ -12,7 +12,7 @@ Belows are brief description and demonstration of these projects:
 ### [Facial recognition][2]
 <p align="center"><img src="./Facial_recognition/face_recognition.gif" width ="480"></p>
 
-### [Motion detection](3)
+### [Motion detection][3]
 <p align="center"><img src="./Motion_detection/motion_detection.gif" width ="480"></p>
 
 [1]:./Facial_expression
