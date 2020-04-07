@@ -15,6 +15,6 @@ Belows are brief description and demonstration of these projects:
 ### [Motion detection](3)
 <p align="center"><img src="./Motion_detection/motion_detection.gif" width ="480"></p>
 
-[1]:/Facial_expression
-[2]:/Facial_recognition
-[3]:/Motion_detection
+[1]:./Facial_expression
+[2]:./Facial_recognition
+[3]:./Motion_detection
