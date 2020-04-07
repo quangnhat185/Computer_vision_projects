@@ -3,7 +3,7 @@ This repository contains my projects relating to Computer Vision.
 Belows are brief description and demonstration of these projects:
 
 1. [Facial expression recognition](#facial-expression-recognition)
-2. [Facial recognition](#facial-recognition])
+2. [Facial recognition](#facial-recognition)
 3. [Motion detection](#motion-detection)
 
 ### [Facial expression recognition][1]
