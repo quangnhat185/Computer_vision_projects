@@ -5,7 +5,7 @@ Belows are brief description and demonstration of these projects:
 1. [Facial expression recognition](#facial-expression-recognition)
 2. [Facial recognition](#facial-recognition)
 3. [Motion detection](#motion-detection)
-4. [Object size estimation](#object-size-estimation])
+4. [Object size estimation](#object-size-estimation)
 
 ### [Facial expression recognition][1]
 <p align="center"><img src="./Facial_expression/facial_expression.gif" width ="480"></p>
