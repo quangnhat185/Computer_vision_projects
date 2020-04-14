@@ -6,6 +6,7 @@ Belows are brief description and demonstration of these projects:
 2. [Facial recognition](#facial-recognition)
 3. [Motion detection](#motion-detection)
 4. [Object size estimation](#object-size-estimation)
+5. [Face bluring](#face-bluring)
 
 ### [Facial expression recognition][1]
 <p align="center"><img src="./Facial_expression/facial_expression.gif" width ="480"></p>
@@ -19,7 +20,11 @@ Belows are brief description and demonstration of these projects:
 ### [Object size estimation][4]
 <p align="center"><img src="./Size_estimation/stack_images.png" width ="768"></p>
 
+### [Face bluring][5]
+<p align="center"><img src="./Face_bluring/face_blurred.gif" width ="1024"></p>
+
 [1]:./Facial_expression
 [2]:./Facial_recognition
 [3]:./Motion_detection
 [4]:./Size_estimation
+[5]: ./Face_bluring
