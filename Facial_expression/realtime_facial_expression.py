@@ -34,7 +34,7 @@ _, frame = cap.read()
 height,width = frame.shape[:2]
 
 
-writer = cv2.VideoWriter("processed.mp4",cv2.VideoWriter_fourcc(*'DIVX'),24,(width,height))
+#writer = cv2.VideoWriter("processed.mp4",cv2.VideoWriter_fourcc(*'DIVX'),24,(width,height))
 
 while True:
     try:
@@ -65,7 +65,7 @@ while True:
             # write emotion text above rectangle
             cv2.putText(img,emotion,(int(x+(w/2)-60),int(y+h+65)),cv2.FONT_HERSHEY_SIMPLEX,2,(0,0,255),3)
         #img =cv2.resize(img,(800,600))    
-        writer.write(img)
+#        writer.write(img)
         cv2.imshow("img",img)
         if cv2.waitKey(1) & 0xFF ==ord('q'):
             break
@@ -74,5 +74,5 @@ while True:
     
 #Release handle to the webcam
 cap.release()
-writer.release()
+#writer.release()
 cv2.destroyAllWindows()

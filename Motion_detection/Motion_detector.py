@@ -30,7 +30,7 @@ def grab_contours(cnts):
             "in that case"))
         
     return cnts
-writer = cv2.VideoWriter("processed.mp4",cv2.VideoWriter_fourcc(*'DIVX'),24,(int(768*(width/height)),768))
+#writer = cv2.VideoWriter("processed.mp4",cv2.VideoWriter_fourcc(*'DIVX'),24,(int(768*(width/height)),768))
 
 while True:
     
@@ -72,7 +72,7 @@ while True:
     cv2.putText(frame, "Status: {}".format(text), (5, 740), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
     
     #show the frame and record if the user presses a key
-    writer.write(frame)
+#    writer.write(frame)
     cv2.imshow("Room Camera",frame)
     cv2.imshow("Threshold View",thresh)
     cv2.imshow("Frame Delta View", frameDelta)
@@ -84,5 +84,5 @@ while True:
     
 #clean up the camera and close any open windown
 cap.release()
-writer.release()
+#writer.release()
 cv2.destroyAllWindows()

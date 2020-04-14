@@ -27,7 +27,7 @@ process_this_frame=True
 _, frame = cap.read()
 height,width = frame.shape[:2]
 
-writer = cv2.VideoWriter("processed.mp4",cv2.VideoWriter_fourcc(*'DIVX'),24,(width,height))
+#writer = cv2.VideoWriter("processed.mp4",cv2.VideoWriter_fourcc(*'DIVX'),24,(width,height))
 
 while True:
     try:
@@ -80,7 +80,7 @@ while True:
             
         # Display the resulting image
         #frame=cv2.resize(frame,(640,480))
-        writer.write(frame)
+#        writer.write(frame)
         cv2.imshow("AI_Facial Recognition",frame)
         
         # Hit 'q' on the keyboard to quit
@@ -90,7 +90,7 @@ while True:
         break
 # Release handle to the webcame
 cap.release()
-writer.release()
+#writer.release()
 cv2.destroyAllWindows()
     
     
