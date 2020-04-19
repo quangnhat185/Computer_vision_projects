@@ -1,8 +1,8 @@
-            # -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 Created on Thu Jun  6 17:03:01 2019
 
-@author: DELL
+@author: Quang
 """
 
 import numpy as np
