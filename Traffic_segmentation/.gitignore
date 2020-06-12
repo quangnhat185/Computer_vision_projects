@@ -1,0 +1,7 @@
+.ipynb_checkpoints/Image_segmentation_maskrcnn-checkpoint.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+Mask_RCNN/
+No_use/maskrcnn_predict.py
+No_use/segmenting_video.mp4
+No_use/test_video.mp4
+mask_rcnn_coco.h5
