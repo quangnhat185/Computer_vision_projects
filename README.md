@@ -2,7 +2,8 @@
 This repository contains my projects relating to Computer Vision.
 Belows are brief description and demonstration of these projects:
 
-1. [Traffic segmentation](#traffic-segmentation)
+1. [Traffic segmentation with Mask_RCNN](#traffic-segmentation-with-Mask_RCNN)
+1. [Social distancing](#social-distancing)
 1. [Facial expression recognition](#facial-expression-recognition)
 1. [Facial recognition](#facial-recognition)
 1. [Motion detection](#motion-detection)
@@ -10,8 +11,11 @@ Belows are brief description and demonstration of these projects:
 1. [Face bluring](#face-bluring)
 
 
-### [Traffic segmentation][6]
+### [Traffic segmentation with Mask_RCNN][6]
 <p align="center"><img src="./Traffic_segmentation/segmenting_result.gif" width ="768"></p>
+
+### [Social distancing][7]
+<p align="center"><img src="./Social_distancing/social_distancing.gif" width ="768"></p>
 
 ### [Facial expression recognition][1]
 <p align="center"><img src="./Facial_expression/facial_expression.gif" width ="480"></p>
@@ -34,3 +38,4 @@ Belows are brief description and demonstration of these projects:
 [4]:./Size_estimation
 [5]: ./Face_bluring
 [6]: ./Traffic_segmentation
+[7]: ./Social_distancing
