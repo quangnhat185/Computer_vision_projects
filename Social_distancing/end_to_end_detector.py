@@ -6,8 +6,8 @@ Created on Sun Jul  5 13:51:40 2020
 """
 
 # run script
-# !python end_to_end_detector.py -v test_video.mp4
-# !python end_to_end_detector.py -v test_video.mp4 -o output
+# !python end_to_end_detector.py -v test_video.wmv
+# !python end_to_end_detector.py -v test_video.wmv -o output
 
 from utils import initialize_config, detect_people
 from scipy.spatial import distance as dist
