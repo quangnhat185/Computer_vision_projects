@@ -4,6 +4,7 @@ Belows are brief description and demonstration of these projects:
 
 1. [Traffic segmentation with Mask_RCNN](#traffic-segmentation-with-Mask_RCNN)
 1. [Social distancing](#social-distancing)
+1. [Face segmentation](#face-segmentation)
 1. [Facial expression recognition](#facial-expression-recognition)
 1. [Facial recognition](#facial-recognition)
 1. [Motion detection](#motion-detection)
@@ -16,6 +17,9 @@ Belows are brief description and demonstration of these projects:
 
 ### [Social distancing][7]
 <p align="center"><img src="./Social_distancing/social_distancing.gif" width ="768"></p>
+
+### [Face segmentation][8]
+<p align="center"><img src="./Face_segmentation/demonstration.gif" width ="1024"></p>
 
 ### [Facial expression recognition][1]
 <p align="center"><img src="./Facial_expression/facial_expression.gif" width ="480"></p>
@@ -39,3 +43,4 @@ Belows are brief description and demonstration of these projects:
 [5]: ./Face_bluring
 [6]: ./Traffic_segmentation
 [7]: ./Social_distancing
+[8]: ./Face_segmentation
