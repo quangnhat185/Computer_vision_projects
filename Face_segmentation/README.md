@@ -1,7 +1,7 @@
 # Face segmentation with Grabcut (OpenCV)
 
 ## Demonstration
-<p align="center"><img src="./demonstration.gif"></img></p>
+<p align="center"><img src="./demonstration.gif" width="1024"></img></p>
 
 ## Examples 
 __1. Segmenting face from image__
